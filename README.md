@@ -31,7 +31,7 @@ Besides the RxPlayer, I work on (and have fun with) multiple other open-source p
     This was initially written to help teams working with us to produce spec-compliant BIF files.
 
   - 🗒️ [quick-xml](https://github.com/peaBerberian/quick-xml): A fork of the rust crate of the same name updated to handle temporary [BufRead](https://doc.rust-lang.org/std/io/trait.BufRead.html) starvation (temporary Eof events).<br>
-    This was done for WebAssembly-related reasons, while we were doing Proof Of Concepts for heavily improving the RxPlayer performance on device which needs it.
+    This was done for WebAssembly-related reasons, while we were doing Proof Of Concepts for heavily improving the RxPlayer performance on devices which needs it.
 
   - ⏯️ [player-inspector](https://github.com/peaBerberian/player-inspector): Yet another reverse-engineering tool for media players on the web.<br>
     This one notably allows, by using it as an [userscript](https://en.wikipedia.org/wiki/Userscript), to visually inspect in real time what is pushed on the lower-level video buffers of most websites with video streaming (YouTube, Netflix, Amazon Prime Video, Twitch, Canal+, Disney+ and so on...).
