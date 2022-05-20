@@ -7,7 +7,7 @@ Lately, I've also had a lot of fun combining several of those languages on the w
 
 Right now, I'm the lead developper of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful streaming media player targeted to large streaming actors, handling technical matters such as adaptive streaming algorithms, content decryption management, binary formats parsing and complex request scheduling.<br>
 
-Besides the RxPlayer, I work on (and have fun with) multiple other projects, some big some very small, many of which are available here on GitHub, among which (all of the following projects are functional):
+Besides the RxPlayer, I work on (and have fun with) multiple other projects: some big some very small and many of which are available here on GitHub. Among which (all of the following projects are functional):
 
   - :chart_with_upwards_trend: [RxPaired](https://github.com/peaBerberian/RxPaired): A lightweight remote debugger.<br>
 	I wrote it to simplify debugging sessions observing the RxPlayer's behavior. It works on any device with a very minimal performance imprint and is used daily by several teams at Canal+.
