@@ -61,7 +61,7 @@ Besides the RxPlayer, I work on (and have fun with) multiple other projects, som
      It is functional, but I honestly don't use it anymore due to it missing a lot of features when compared to what is freely available elsewhere.
      
    - 🗞️ [GoFeeds](https://github.com/peaBerberian/GoFeeds): A simple RSS feed parser written in Go.<br>
-     Like `GoBanks`, I wrote it to improve my Go skills, and also like it, I don't use it much anymore because others invested much more time on better solution 😁 
+     Like `GoBanks`, I wrote it to improve my Go skills, and also like it, I don't use it much anymore because others invested much more time on better solutions 😁 
      
    - 🕸️ [peaberberian.github.io](https://github.com/peaBerberian/peaberberian.github.io): A dead simple static site generator for my personal github page: https://peaberberian.github.io.<br>
      The point was to spent the minimum maintenance time on it and avoid using JavaScript at all (quite peculiar for a front-end web developper like me!).
