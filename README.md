@@ -6,7 +6,6 @@ My current languages of choice are: <img height="15px" src="https://upload.wikim
 Lately, I've also had a lot of fun combining several of those languages on the web by relying on <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg"></img> WebAssembly.
 
 Right now, I'm the lead developper of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful streaming media player targeted to large streaming actors, handling technical matters such as adaptive streaming algorithms, content decryption management, binary formats parsing and complex request scheduling.<br>
-It runs in production for millions of subscribers on a huge variety of devices (web, mobile, smart TVs, game consoles, set-top-boxes, native windows app etc.) and multiple streaming actors in different parts of the world.
 
 Besides the RxPlayer, I work on (and have fun with) multiple other projects, some big some very small, many of which are available here on GitHub, among which (all of the following projects are functional):
 
