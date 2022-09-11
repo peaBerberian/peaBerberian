@@ -5,9 +5,13 @@ I'm a senior (10+ years) software developper mostly working on libraries for the
 My current languages of choice are: <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></img> TypeScript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></img> Javascript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"></img>  Rust and <img height="15px" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg"></img> Go.<br>
 Lately, I've also had a lot of fun combining several of those languages on the web by relying on <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg"></img> WebAssembly.
 
-Right now, I'm the lead developper of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful streaming media player targeted to large streaming actors, handling technical matters such as adaptive streaming algorithms, content decryption management, binary formats parsing and complex request scheduling.<br>
+Right now, I'm the lead developper of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful streaming media player (the core library part, the UI has to be implemented separately) targeted to large streaming actors<br>
 
 Besides the RxPlayer, I work on (and have fun with) multiple other open-source projects: some big some very small and many of which are available here on GitHub. Among which (all of the following projects are functional):
+
+  - :honeybee: [Wasp-hls](https://github.com/peaBerberian/wasp-hls): A WebAssembly-based, in-worker, HLS media player.<br>
+     This is an ambitious personal project where I attempt to use the latest API and technologies (MSE-In-Worker, WebAssembly) to construct an optimal adaptive media player: not blocked by main thread interactions, low-on-memory, performant, low-latency.<br>
+     This is still heavily in development. Most VoDs can be played but there's still a lot of features to come!
 
   - :chart_with_upwards_trend: [RxPaired](https://github.com/peaBerberian/RxPaired): A lightweight remote debugger.<br>
 	I wrote it to simplify debugging sessions observing the RxPlayer's behavior. It works on any device with a very minimal performance imprint and is used daily by several teams at Canal+.
@@ -19,7 +23,7 @@ Besides the RxPlayer, I work on (and have fun with) multiple other open-source p
     Written initially as a personal project to improve my understanding of the format, it is now actually used at my work by different teams to easily inspect those files.
     
   - 🏇 [gif-renderer.rs](https://github.com/peaBerberian/gif-renderer.rs): A gif decoder written in Rust.<br>
-    I wrote it to continue improving my Rust skills, it is functional and is able to efficiently display all (87a and 89a) GIF files.
+    I wrote it to continue improving my Rust skills, it is finished and functional and is able to efficiently display all (87a and 89a) GIF files.
 
   - ⌨️ [RKeyboard](https://github.com/peaBerberian/RKeyboard): A functional proof of concept to provide a new way to handle complex keyboard and/or remote control interactions.<br>
     It was written while creating the initial skeleton of the next Canal+ front-end application for its set-top boxes. At its core, it creates a hierarchy of key handlers, a stack on which you can push and pop to respectively catch a key or let the parent catch it again. 
