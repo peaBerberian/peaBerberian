@@ -11,7 +11,7 @@ Besides the RxPlayer, I work on (and have fun with) multiple other open-source p
 
   - :honeybee: [Wasp-hls](https://github.com/peaBerberian/wasp-hls): A WebAssembly-based, in-worker, HLS media player.<br>
      This is an ambitious personal project where I attempt to use the latest API and technologies (MSE-In-Worker, WebAssembly) to construct an optimal adaptive media player: not blocked by main thread interactions, low-on-memory, performant, low-latency.<br>
-     This is still heavily in development. Most VoDs can be played but there's still a lot of features to come!
+     This is still heavily in development. Most live and VoD contents can be played but there's still a lot of features to come!
 
   - :chart_with_upwards_trend: [RxPaired](https://github.com/peaBerberian/RxPaired): A lightweight remote debugger.<br>
 	I wrote it to simplify debugging sessions observing the RxPlayer's behavior. It works on any device with a very minimal performance imprint and is used daily by several teams at Canal+.
