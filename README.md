@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Paul Berberian
 
-I'm a senior (10+ years) software developper mostly working on libraries for the more technical aspects of front-end web development.
+I'm a senior (10+ years) software developer mostly working on libraries for the more technical aspects of front-end web development.
 
 Right now, I'm the lead developer of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful DASH and Smooth streaming media player (the core library part, the UI has to be implemented separately) targeted to large streaming actors.<br>
 
@@ -68,7 +68,7 @@ Besides the RxPlayer, I work on (and have fun with) multiple other open-source p
      Like `GoBanks`, I wrote it to improve my Go skills, and also like it, I don't use it much anymore because others invested much more time on better solutions 😁 
      
    - 🕸️ [peaberberian.github.io](https://github.com/peaBerberian/peaberberian.github.io): A dead simple static site generator for my personal github page: https://peaberberian.github.io.<br>
-     The point was to spent the minimum maintenance time on it and avoid using JavaScript at all (quite peculiar for a front-end web developper like me!).
+     The point was to spent the minimum maintenance time on it and avoid using JavaScript at all (quite peculiar for a front-end web developer like me!).
 <!--
 **peaBerberian/peaBerberian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
