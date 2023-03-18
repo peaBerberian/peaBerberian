@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Paul Berberian
 
-I'm a senior (10+ years) software developer mostly working on libraries for the more technical aspects of front-end web development.
+I'm a senior software developer mostly working on libraries for the more technical aspects of front-end web development.
 
 Right now, I'm the lead developer of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful DASH and Smooth streaming media player (the core library part, the UI has to be implemented separately) targeted to large streaming actors.<br>
 
