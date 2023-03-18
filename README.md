@@ -2,10 +2,10 @@
 
 I'm a senior (10+ years) software developper mostly working on libraries for the more technical aspects of front-end web development.
 
+Right now, I'm the lead developper of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful DASH and Smooth streaming media player (the core library part, the UI has to be implemented separately) targeted to large streaming actors.<br>
+
 My current languages of choice are: <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></img> TypeScript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></img> Javascript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"></img>  Rust and <img height="15px" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg"></img> Go.<br>
 Lately, I've also had a lot of fun combining several of those languages on the web by relying on <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg"></img> WebAssembly.
-
-Right now, I'm the lead developper of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful streaming media player (the core library part, the UI has to be implemented separately) targeted to large streaming actors<br>
 
 Besides the RxPlayer, I work on (and have fun with) multiple other open-source projects: some big some very small and many of which are available here on GitHub. Among which (all of the following projects are functional):
 
