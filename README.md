@@ -40,6 +40,12 @@ Besides the RxPlayer, I work on (and have fun with) multiple other open-source p
   - ⏯️ [player-inspector](https://github.com/peaBerberian/player-inspector): Yet another reverse-engineering tool for media players on the web.<br>
     This one notably allows, by using it as an [userscript](https://en.wikipedia.org/wiki/Userscript), to visually inspect in real time what is pushed on the lower-level video buffers of most websites with video streaming (YouTube, Netflix, Amazon Prime Video, Twitch, Canal+, Disney+ and so on...).
     
+  - 📖 [docgen.ico](https://github.com/peaBerberian/docgen.ico): A simple (in a KISS way) documentation generator taking as input fully CommonMark-compatible Markdown files.
+
+    The goal is to keep the original documentation files readability in a text-editor (as intended by the Markdown format) as well as on Github's interface, without any specific modification on them, while still providing a richer web version with minimal efforts, here by adding simple `.docConfig.json` JSON files alongside documentation files.
+    
+  - :key: [passgen](https://github.com/peaBerberian/passgen): A very simple online client-side password generator.
+    
   - 🎮 [roguelike_test.rs](https://github.com/peaBerberian/roguelike_test.rs): As its name subtly suggest, this is a very simple roguelike (following the [Berlin interpretation](http://www.roguebasin.com/index.php/Berlin_Interpretation) of the genre) implementation in Rust.<br>
     It was is written with the help of the [tcod](https://github.com/tomassedovic/tcod-rs) library to handle inputs, graphics and window management. Graphics are ASCII-based and minimal as they very often are in those traditional roguelikes, the main work being on the core logic and gameplay, here principally: procedural map generation, AI, field of view and interactions between objects.
          
