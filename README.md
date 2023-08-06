@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Paul Berberian
 
-I'm a senior software developer mostly working on libraries for the more technical aspects of front-end web development.
+I'm a senior software developer mostly working on libraries implementing technical aspects needed by front-end web applications.
 
-Right now, I'm the lead developer of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful DASH and Smooth streaming media player (the core library part, the UI has to be implemented separately) targeted to large streaming actors.<br>
+Right now, I'm the lead developer of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful adaptive media player library targeted to important streaming actors. It implements the technical core building block of a streaming media player (particularly media standards, such as the DASH and Smooth streaming protocols) and can then be integrated into a separate player UI, which is generally directly developed by the various companies freely relying on the project.<br>
 
 My current languages of choice are: <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></img> TypeScript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></img> Javascript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"></img>  Rust and <img height="15px" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg"></img> Go.<br>
-Lately, I've also had a lot of fun combining several of those languages on the web by relying on <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg"></img> WebAssembly.
+I also like combining several of those languages on the web by relying on <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg"></img> WebAssembly.
 
-Besides the RxPlayer, I work on (and have fun with) multiple other open-source projects: some big some very small and many of which are available here on GitHub. Among which (all of the following projects are functional):
+Besides the RxPlayer, I work on multiple other open-source projects: some big some very small and many of which are available here on GitHub. Among which (all of those listed projects are functional):
 
   - :honeybee: [Wasp-hls](https://github.com/peaBerberian/wasp-hls): A WebAssembly-based, in-worker, HLS media player.<br>
      This is an ambitious personal project where I attempt to use the latest API and technologies (MSE-In-Worker, WebAssembly) to construct an optimal adaptive media player: not blocked by main thread interactions, low-on-memory, performant, low-latency.<br>
