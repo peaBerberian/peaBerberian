@@ -43,7 +43,7 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
   - ⏯️ [player-inspector](https://github.com/peaBerberian/player-inspector): Yet another reverse-engineering tool for media players on the web.<br>
     This one notably allows, by using it as an [userscript](https://en.wikipedia.org/wiki/Userscript), to visually inspect in real time what is pushed on the lower-level video buffers of most websites with video streaming (YouTube, Netflix, Amazon Prime Video, Twitch, Canal+, Disney+ and so on...).
     
-  - 📖 [docgen.ico](https://github.com/peaBerberian/docgen.ico): A simple (in a KISS way) documentation generator taking as input fully CommonMark-compatible Markdown files.
+  - 📖 [README](https://github.com/peaBerberian/README): A simple (in a KISS way) documentation generator taking as input fully CommonMark-compatible Markdown files.
 
     The goal is to keep the original documentation files readability in a text-editor (as intended by the Markdown format) as well as on Github's interface, without any specific modification on them, while still providing a richer web version with minimal efforts, here by adding simple `.docConfig.json` JSON files alongside documentation files.
     
