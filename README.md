@@ -13,7 +13,7 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
      This is an ambitious personal project where I attempt to use the latest API and technologies (MSE-In-Worker, WebAssembly) to construct an optimal adaptive media player: not blocked by main thread interactions, low-on-memory, performant, low-latency.<br>
      This is still heavily in development. Most live and VoD contents can be played but there's still a lot of features to come!
 
-  - :chart_with_upwards_trend: [RxPaired](https://github.com/peaBerberian/RxPaired): A lightweight remote debugger.<br>
+  - :chart_with_upwards_trend: [RxPaired](https://github.com/canalplus/RxPaired): A lightweight remote debugger.<br>
 	I wrote it to simplify debugging sessions observing the RxPlayer's behavior. It works on any device with a very minimal performance imprint and is used daily by several teams at Canal+.
 
   - :eyeglasses: [MSESpy](https://github.com/peaBerberian/MSESpy.js) and [EMESpy](https://github.com/peaBerberian/EMESpy.js), spying libraries used for reverse engineering what [MSE](https://www.w3.org/TR/media-source-2/) and [EME](https://www.w3.org/TR/encrypted-media/) web APIs any webpage is calling, when, and with which parameters.<br>
