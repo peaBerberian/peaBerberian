@@ -28,6 +28,9 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
   - :page_facing_up: [str-html](https://github.com/peaBerberian/str-html): A simple JS UI tool generating `HTMLElement` by relying on tagged template literals.<br>
     This tool can be used as a fairly simple UI lib for JS applications, leading to very readable component code without having to bring e.g. JSX into the picture. I wrote this one as a nice spot for when whole UI frameworks like React were overkill yet using "vanilla" HTML API became unreadable.
 
+  - 🕹 [keyboard9](https://github.com/peaberberian/keyboard9/): A virtual keyboard allowing for much faster typing speeds than the usual implementation.<br>
+    The idea was to allow for fast text input when debugging devices with a remote controls or joypad interface (game consoles, set-top boxes, smart TVs...).
+
   - ⌨️ [RKeyboard](https://github.com/peaBerberian/RKeyboard): A functional proof of concept to provide a new way to handle complex keyboard and/or remote control interactions.<br>
     It was written while creating the initial skeleton of the next Canal+ front-end application for its set-top boxes. At its core, it creates a hierarchy of key handlers, a stack on which you can push and pop to respectively catch a key or let the parent catch it again. 
      
