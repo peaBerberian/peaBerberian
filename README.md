@@ -2,7 +2,7 @@
 
 I'm a software developer mostly working on libraries for front-end web applications.
 
-Right now, I'm the lead developer of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful adaptive media player library targeted to streaming actors. It implements the technical core building block of a streaming media player and can then be integrated into a separate player UI, which is generally directly developed by the various companies freely relying on the project.<br>
+Right now, I'm the lead developer of the open-source [RxPlayer](https://github.com/canalplus/rx-player) project at Canal+, a featureful adaptive media player library targeted to media streaming companies. It implements the technical core building block of a streaming media player and can then be integrated into a separate player UI, which is generally directly developed by the various companies freely relying on the project.<br>
 
 My current languages of choice are: <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></img> TypeScript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></img> Javascript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"></img>  Rust and <img height="15px" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg"></img> Go.<br>
 I also like combining several of those languages on the web by relying on <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg"></img> WebAssembly.
