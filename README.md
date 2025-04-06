@@ -27,9 +27,17 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
 
   - :page_facing_up: [str-html](https://github.com/peaBerberian/str-html): A simple JS UI tool generating `HTMLElement` by relying on tagged template literals.<br>
     This tool can be used as a fairly simple UI lib for JS applications, leading to very readable component code without having to bring e.g. JSX into the picture. I wrote this one as a nice spot for when whole UI frameworks like React were overkill yet using "vanilla" HTML API became unreadable.
+    
+  - 📖 [README](https://github.com/canalplus/README): A simple (in a KISS way) documentation generator taking as input fully CommonMark-compatible Markdown files.
 
+    The goal is to keep the original documentation files readability in a text-editor (as intended by the Markdown format) as well as on Github's interface, without any specific modification on them, while still providing a richer web version with minimal efforts, here by adding simple `.docConfig.json` JSON files alongside documentation files.
+    
   - 🕹 [keyboard9](https://github.com/peaberberian/keyboard9/): A virtual keyboard allowing for much faster typing speeds than the usual implementation.<br>
     The idea was to allow for fast text input when debugging devices with a remote controls or joypad interface (game consoles, set-top boxes, smart TVs...).
+
+  - :key: [passgen](https://github.com/peaBerberian/passgen): A very simple online client-side password generator.
+
+  - 🦖 [DinoeufDePâques](https://github.com/peaBerberian/DinoeufDePaques): An implementation of the "dinosaur game" whose goal is just to be very easy to embed/load as an easter egg in other projects (very small size, images embedded in-source).
 
   - ⌨️ [RKeyboard](https://github.com/peaBerberian/RKeyboard): A functional proof of concept to provide a new way to handle complex keyboard and/or remote control interactions.<br>
     It was written while creating the initial skeleton of the next Canal+ front-end application for its set-top boxes. At its core, it creates a hierarchy of key handlers, a stack on which you can push and pop to respectively catch a key or let the parent catch it again. 
@@ -45,12 +53,6 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
 
   - ⏯️ [player-inspector](https://github.com/peaBerberian/player-inspector): Yet another reverse-engineering tool for media players on the web.<br>
     This one notably allows, by using it as an [userscript](https://en.wikipedia.org/wiki/Userscript), to visually inspect in real time what is pushed on the lower-level video buffers of most websites with video streaming (YouTube, Netflix, Amazon Prime Video, Twitch, Canal+, Disney+ and so on...).
-    
-  - 📖 [README](https://github.com/canalplus/README): A simple (in a KISS way) documentation generator taking as input fully CommonMark-compatible Markdown files.
-
-    The goal is to keep the original documentation files readability in a text-editor (as intended by the Markdown format) as well as on Github's interface, without any specific modification on them, while still providing a richer web version with minimal efforts, here by adding simple `.docConfig.json` JSON files alongside documentation files.
-    
-  - :key: [passgen](https://github.com/peaBerberian/passgen): A very simple online client-side password generator.
     
   - 🎮 [roguelike_test.rs](https://github.com/peaBerberian/roguelike_test.rs): As its name subtly suggest, this is a very simple roguelike (following the [Berlin interpretation](http://www.roguebasin.com/index.php/Berlin_Interpretation) of the genre) implementation in Rust.<br>
     It was is written with the help of the [tcod](https://github.com/tomassedovic/tcod-rs) library to handle inputs, graphics and window management. Graphics are ASCII-based and minimal as they very often are in those traditional roguelikes, the main work being on the core logic and gameplay, here principally: procedural map generation, AI, field of view and interactions between objects.
