@@ -16,6 +16,9 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
   - :chart_with_upwards_trend: [RxPaired](https://github.com/canalplus/RxPaired): A lightweight remote debugger.<br>
 	I wrote it to simplify debugging sessions observing the RxPlayer's behavior. It works on any device with a very minimal performance imprint and is used daily by several teams at Canal+.
 
+  - 🕸️ [peaberberian.github.io](https://github.com/peaBerberian/peaberberian.github.io): Code linked to [my homepage](https://peaberberian.github.io).<br>
+    Check the page out! It emulates a featureful desktop environment and is written with no external dependency.
+
   - :eyeglasses: [MSESpy](https://github.com/peaBerberian/MSESpy.js) and [EMESpy](https://github.com/peaBerberian/EMESpy.js), spying libraries used for reverse engineering what [MSE](https://www.w3.org/TR/media-source-2/) and [EME](https://www.w3.org/TR/encrypted-media/) web APIs any webpage is calling, when, and with which parameters.<br>
     Those tools were written to reverse engineer how other streaming actors' own players were behaving in different situations, in turn to improve our own. My team and I still use it for that same usage. 
    
@@ -81,8 +84,6 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
    - 🗞️ [GoFeeds](https://github.com/peaBerberian/GoFeeds): A simple RSS feed parser written in Go.<br>
      Like `GoBanks`, I wrote it to improve my Go skills, and also like it, I don't use it much anymore because others invested much more time on better solutions 😁 
      
-   - 🕸️ [peaberberian.github.io](https://github.com/peaBerberian/peaberberian.github.io): A dead simple static site generator for my personal github page: https://peaberberian.github.io.<br>
-     The point was to spent the minimum maintenance time on it and avoid using JavaScript at all (quite peculiar for a front-end web developer like me!).
 <!--
 **peaBerberian/peaBerberian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
