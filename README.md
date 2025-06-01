@@ -14,7 +14,7 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
      This is still heavily in development. Most live and VoD contents can be played but there's still a lot of features to come!
 
     
-  - 🕸️ [peaberberian.github.io](https://github.com/peaBerberian/peaberberian.github.io): Code linked to [my homepage](https://peaberberian.github.io).<br>
+  - 🕸️ [Paul's Web Desktop](https://github.com/peaBerberian/peaberberian.github.io): Code linked to [my homepage](https://peaberberian.github.io).<br>
     Check the page out! It emulates a featureful desktop environment and is written with no external dependency.
 
   - :chart_with_upwards_trend: [RxPaired](https://github.com/canalplus/RxPaired): A lightweight remote debugger.<br>
