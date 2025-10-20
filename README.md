@@ -17,6 +17,9 @@ Besides the RxPlayer, I work on multiple other open-source projects: some big so
   - 🕸️ [Paul's Web Desktop](https://github.com/peaBerberian/peaberberian.github.io): Code linked to [my homepage](https://peaberberian.github.io).<br>
     Check the page out! It emulates a featureful desktop environment and is written with no external dependency.
 
+  - 🚢 [paul-envs.sh](https://github.com/peaBerberian/paul-envs.sh): A multi-container manager focused on CLI-only development workflows.
+    I rely on this when working on some large projects with a lot of fast-moving dependencies.
+    
   - :chart_with_upwards_trend: [RxPaired](https://github.com/canalplus/RxPaired): A lightweight remote debugger.<br>
 	I wrote it to simplify debugging sessions observing the RxPlayer's behavior. It works on any device with a very minimal performance imprint and is used daily by several teams at Canal+.
 
