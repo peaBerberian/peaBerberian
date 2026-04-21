@@ -4,7 +4,7 @@ I'm a software developer working on libraries for the web and the lead developer
 
 My current languages of choice are: <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></img> TypeScript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></img> Javascript, <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"></img>  Rust and <img height="15px" src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg"></img> Go.<br>
 
-I also work on multiple other open-source projects, including:
+I also created multiple other open-source projects, including:
 
   - :honeybee: [Wasp-hls](https://github.com/peaBerberian/wasp-hls): A WebAssembly-based, in-worker, HLS media player.<br>
 	 Ambitious personal project using the latest API and technologies (MSE-In-Worker, WebAssembly) to construct an optimal adaptive media player: not blocked by main thread interactions, low-on-memory, performant, low-latency.<br>
