@@ -12,6 +12,9 @@ I also created multiple other open-source projects, including:
   - 🕸️ [Paul's Web Desktop](https://github.com/peaBerberian/peaberberian.github.io): Code linked to [my homepage](https://peaberberian.github.io).<br>
   Check the page out! It emulates a featureful desktop environment and is written with no external dependency.
 
+  - 📹 [AISOBMFFWVDFBUTFAII](https://github.com/peaBerberian/AISOBMFFWVDFBUTFAII): An online inspector for MP4 files ([demo page](https://peaberberian.github.io/AISOBMFFWVDFBUTFAII/)).<br>
+    Written initially as a personal project to improve my understanding of the format, it is now actually used at my work by different teams to easily inspect those files. It relies on another library of mine doing the parsing, [`isobmff-inspector`](https://github.com/peaBerberian/isobmff-inspector).
+
   - 🚢 [paul-envs](https://github.com/peaBerberian/paul-envs): A multi-container manager designed for CLI-only development workflows, written in Go.<br>
   I rely on this when working on some large projects with a lot of fast-moving dependencies.
     
@@ -20,9 +23,6 @@ I also created multiple other open-source projects, including:
 
   - :eyeglasses: [MSESpy](https://github.com/peaBerberian/MSESpy.js) and [EMESpy](https://github.com/peaBerberian/EMESpy.js), spying libraries used for reverse engineering what [MSE](https://www.w3.org/TR/media-source-2/) and [EME](https://www.w3.org/TR/encrypted-media/) web APIs any webpage is calling, when, and with which parameters.<br>
     Those tools were written to reverse engineer how other streaming actors' own players were behaving in different situations, in turn to improve our own. My team and I still use it for that same usage. 
-   
-  - 📹 [AISOBMFFWVDFBUTFAII](https://github.com/peaBerberian/AISOBMFFWVDFBUTFAII): An inspector of MP4 files (more technically, it tries to inspect all [ISOBMFF](https://en.wikipedia.org/wiki/ISO/IEC_base_media_file_format)-compatible formats).<br>
-    Written initially as a personal project to improve my understanding of the format, it is now actually used at my work by different teams to easily inspect those files.
     
   - :page_facing_up: [str-html](https://github.com/peaBerberian/str-html): A simple JS UI tool generating `HTMLElement` by relying on tagged template literals.<br>
     I wrote this one as a nice spot for when whole UI frameworks like React were overkill yet using "vanilla" HTML API became unreadable.
